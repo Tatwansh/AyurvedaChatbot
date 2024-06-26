@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-authors = ['Tatwansh','Tenzin','Nishant','SK', 'Ashwary']
+authors = ['Tatwansh','Tenzin']
 setup(
     name = 'Ayuveda Chatbot',
     version= '0.0.0',
